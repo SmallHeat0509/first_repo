@@ -1,5 +1,2 @@
-pygame
-requests
 fastapi
 uvicorn
-pydantic
