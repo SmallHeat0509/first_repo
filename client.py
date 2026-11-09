@@ -3,7 +3,7 @@ import pygame
 import requests
 
 # FastAPI Server 網址
-API_BASE_URL = "http://127.0.0.1:8000"
+API_BASE_URL = "https://first-repo-1-mw92.onrender.com"
 
 # 顏色設定
 COLOR_BG = (18, 18, 19)
